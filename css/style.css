@@ -637,6 +637,10 @@ body {
     margin-right: 4rem;
   }
 
+  .md\:ml-16 {
+    margin-left: 4rem;
+  }
+
   .md\:w-1\/2 {
     width: 50%;
   }
